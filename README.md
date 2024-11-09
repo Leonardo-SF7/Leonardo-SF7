@@ -11,6 +11,9 @@ I'm a university student in Systems Analysis and Development, currently in my 4t
 * 🧠  I'm learning C#, .NET, Docker, PostgreSQL, Angular
 * 🤝  I'm open to collaborating on Projects of Web Development, IA, Games Development...
 
+<a href="https://www.github.com/Leonardo-SF7" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Leonardo-SF7?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 ### Skills
 
 
